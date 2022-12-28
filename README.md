@@ -41,6 +41,3 @@
 </div>
 </div>
 <hr/>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cesarlugoo)](https://git.io/streak-stats)
-<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cesarlugoo&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
