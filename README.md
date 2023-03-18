@@ -14,7 +14,7 @@
   <br/>
   <img src="https://komarev.com/ghpvc/?username=cesarlugoo&style=flat-square&color=blue" alt="Profile views"/>
   <br/>
-  I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
   <br/>
   :mailbox: How to reach me: <a href="https://www.linkedin.com/in/cesarlugomusic/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </div>
